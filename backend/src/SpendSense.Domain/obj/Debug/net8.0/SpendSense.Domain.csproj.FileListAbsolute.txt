@@ -1,0 +1,11 @@
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\bin\Debug\net8.0\SpendSense.Domain.deps.json
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\bin\Debug\net8.0\SpendSense.Domain.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\bin\Debug\net8.0\SpendSense.Domain.pdb
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\SpendSense.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\SpendSense.Domain.AssemblyInfoInputs.cache
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\SpendSense.Domain.AssemblyInfo.cs
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\SpendSense.Domain.csproj.CoreCompileInputs.cache
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\SpendSense.Domain.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\refint\SpendSense.Domain.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\SpendSense.Domain.pdb
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\ref\SpendSense.Domain.dll

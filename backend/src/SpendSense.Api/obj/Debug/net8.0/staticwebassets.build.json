@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4S/sWiia+HFj23SlPaxi6FJ8w5SKW7M+sO9T1hVAojg=",
+  "Source": "SpendSense.Api",
+  "BasePath": "_content/SpendSense.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

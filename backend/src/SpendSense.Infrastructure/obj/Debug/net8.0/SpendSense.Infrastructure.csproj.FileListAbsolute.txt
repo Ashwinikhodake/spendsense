@@ -1,0 +1,17 @@
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\bin\Debug\net8.0\SpendSense.Infrastructure.deps.json
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\bin\Debug\net8.0\SpendSense.Infrastructure.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\bin\Debug\net8.0\SpendSense.Infrastructure.pdb
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\bin\Debug\net8.0\SpendSense.Application.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\bin\Debug\net8.0\SpendSense.Domain.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\bin\Debug\net8.0\SpendSense.Application.pdb
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\bin\Debug\net8.0\SpendSense.Domain.pdb
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSense.Infrastructure.csproj.AssemblyReference.cache
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSense.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSense.Infrastructure.AssemblyInfoInputs.cache
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSense.Infrastructure.AssemblyInfo.cs
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSense.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSen.B2AAFBBA.Up2Date
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSense.Infrastructure.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\refint\SpendSense.Infrastructure.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSense.Infrastructure.pdb
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\ref\SpendSense.Infrastructure.dll

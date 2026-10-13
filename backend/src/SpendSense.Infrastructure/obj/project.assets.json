@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "SpendSense.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "SpendSense.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SpendSense.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpendSense.Application.dll": {}
+        }
+      },
+      "SpendSense.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SpendSense.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpendSense.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpendSense.Application/1.0.0": {
+      "type": "project",
+      "path": "../SpendSense.Application/SpendSense.Application.csproj",
+      "msbuildProject": "../SpendSense.Application/SpendSense.Application.csproj"
+    },
+    "SpendSense.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SpendSense.Domain/SpendSense.Domain.csproj",
+      "msbuildProject": "../SpendSense.Domain/SpendSense.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "SpendSense.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Pushpam\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Ashwini\\spendsense\\backend\\src\\SpendSense.Infrastructure\\SpendSense.Infrastructure.csproj",
+      "projectName": "SpendSense.Infrastructure",
+      "projectPath": "D:\\Ashwini\\spendsense\\backend\\src\\SpendSense.Infrastructure\\SpendSense.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Pushpam\\.nuget\\packages\\",
+      "outputPath": "D:\\Ashwini\\spendsense\\backend\\src\\SpendSense.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Pushpam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Ashwini\\spendsense\\backend\\src\\SpendSense.Application\\SpendSense.Application.csproj": {
+              "projectPath": "D:\\Ashwini\\spendsense\\backend\\src\\SpendSense.Application\\SpendSense.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
