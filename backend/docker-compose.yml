@@ -1,0 +1,15 @@
+services:
+  db:
+    image: postgres:16
+    container_name: spendsense-db
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: spendsense
+    ports: 
+      - "5432:5432"
+    volumes:
+      - spendsense-data:/var/lib/postgresql/data
+
+volumes:
+  spendsense-data:
