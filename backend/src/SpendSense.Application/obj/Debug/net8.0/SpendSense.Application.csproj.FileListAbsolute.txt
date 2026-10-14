@@ -13,3 +13,4 @@ D:\Ashwini\spendsense\backend\src\SpendSense.Application\obj\Debug\net8.0\SpendS
 D:\Ashwini\spendsense\backend\src\SpendSense.Application\obj\Debug\net8.0\refint\SpendSense.Application.dll
 D:\Ashwini\spendsense\backend\src\SpendSense.Application\obj\Debug\net8.0\SpendSense.Application.pdb
 D:\Ashwini\spendsense\backend\src\SpendSense.Application\obj\Debug\net8.0\ref\SpendSense.Application.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Application\obj\Debug\net8.0\SpendSense.Application.sourcelink.json

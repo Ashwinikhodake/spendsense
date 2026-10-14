@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("1c78338c-d4f8-48dc-9b41-03282de351a8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpendSense.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+625ddf97e5b588f5d65fca1f7fdc73a83a039d1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpendSense.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpendSense.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

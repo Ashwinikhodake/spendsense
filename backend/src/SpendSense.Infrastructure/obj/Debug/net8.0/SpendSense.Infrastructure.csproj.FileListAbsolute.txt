@@ -15,3 +15,4 @@ D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\Spe
 D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\refint\SpendSense.Infrastructure.dll
 D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSense.Infrastructure.pdb
 D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\ref\SpendSense.Infrastructure.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Infrastructure\obj\Debug\net8.0\SpendSense.Infrastructure.sourcelink.json

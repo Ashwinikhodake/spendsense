@@ -9,3 +9,4 @@ D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\SpendSense.
 D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\refint\SpendSense.Domain.dll
 D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\SpendSense.Domain.pdb
 D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\ref\SpendSense.Domain.dll
+D:\Ashwini\spendsense\backend\src\SpendSense.Domain\obj\Debug\net8.0\SpendSense.Domain.sourcelink.json
